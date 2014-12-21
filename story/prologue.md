@@ -1,6 +1,6 @@
 # Prologue
 
-In 2345, the Lingshan Mining Corporation initiated its most significant long-term investment to date: the launch of the _Weiyu_, an interstellar behemoth carrying everything required to rare mine minerals not found in our solar system, refine them, and send them back to Earth.
+In 2345, the Lingshan Mining Corporation initiated its most significant long-term investment to date: the launch of the _Weiyu_, an interstellar behemoth carrying everything required to mine rare minerals not found in our solar system, refine them, and send them back to Earth.
 
 Headquartered in the desolate Earth city of _New Qinzhou_, the Lingshan Mining Corporation has remained amongst the five most powerful corporations in the solar system for the best part of two centuries. Its resources and close links with the establishment saw it play a pivotal role in the _Great Zhonghua Minzu Wars_, a brutal campaign for terrestrial (and later, system-wide) dominance triggered by technological developments which enabled near-instant global travel beginning in the mid-22nd century.
 
