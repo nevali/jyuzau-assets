@@ -2,7 +2,7 @@
 
 In 2345, the Lingshan Mining Corporation initiated its most significant long-term investment to date: the launch of the _Weiyu_, an interstellar behemoth carrying everything required to mine rare minerals not found in our solar system, refine them, and send them back to Earth.
 
-Headquartered in the desolate Earth city of _New Qinzhou_, the Lingshan Mining Corporation has remained amongst the five most powerful corporations in the solar system for the best part of two centuries. Its resources and close links with the establishment saw it play a pivotal role in the _Great Zhonghua Minzu Wars_, a brutal campaign for terrestrial (and later, system-wide) dominance triggered by technological developments which enabled near-instant global travel beginning in the mid-22nd century.
+Headquartered in the desolate Earth city of _New Qinzhou_, the Lingshan Mining Corporation has remained amongst the five most powerful corporations in the solar system for the best part of two centuries. Its resources and close links with the establishment saw it play a pivotal role in the _Great Zhonghua Minzu Wars_, a brutal campaign beginning in the mid-22nd century for terrestrial (and later, system-wide) dominance triggered by technological developments which enabled near-instant global travel.
 
 The capture of _Novosibirsk_—and its formal re-institution as New Qinzhou in 2279—marked the end of the Wars, and the beginning of a long period of uneasy peace between the system’s three principal super-states of _Zhonghua Minzu_, _Estados Unidos Mexcanos_ and _Bhārat Gaṇarājya_.
 
@@ -16,7 +16,7 @@ Despite the availability of rapid transit across the system and great strides in
 
 As with all major Lingshan projects, the crew of the Weiyu were selected by the province’s labour lottery. They, and their families, were placed into the thousands of SPAN caskets where—with few exceptions—they would remain for the duration of the long journey into deep space.
 
-You are one of those exceptions: granted the dubious honour of being the first _cingit_ (from the Cantonese _清潔工_, meaning “janitor”), you are being revived from SPAN a third of the way into the journey, 15.6 parsecs (approximately 51 light-years) from Earth.
+You are one of those exceptions: granted the dubious honour of being the first _cingit_ (from the Cantonese _“清潔工”_, meaning “janitor”), you are being revived from SPAN a third of the way into the journey, 15.6 parsecs (approximately 51 light-years) from Earth.
 
 You, and two others who will be woken after you've been re-acclimatised, will be responsible for checking over the Weiyu’s systems to ensure that they are in proper working order. Another trio of cingits will be woken two-thirds of the way through the journey to do the same again.
 
