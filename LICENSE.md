@@ -2,7 +2,7 @@
 
 The contents of [this repository](https://github.com/nevali/jyuzau-assets) are licensed under the terms of the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 
-Copyright © 2014 [Mo McRoberts](https://github.com/nevali).
+Copyright © 2014-2015 [Mo McRoberts](https://github.com/nevali).
 
 ## Summary of terms
 

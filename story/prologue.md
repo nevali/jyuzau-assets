@@ -4,7 +4,7 @@ In 2345, the Lingshan Mining Corporation initiated its most significant long-ter
 
 Headquartered in the desolate Earth city of _New Qinzhou_, the Lingshan Mining Corporation has remained amongst the five most powerful corporations in the solar system for the best part of two centuries. Its resources and close links with the establishment saw it play a pivotal role in the _Great Zhonghua Minzu Wars_, a brutal campaign beginning in the mid-22nd century for terrestrial (and later, system-wide) dominance triggered by technological developments which enabled near-instant global travel.
 
-The capture of _Novosibirsk_—and its formal re-institution as New Qinzhou in 2279—marked the end of the Wars, and the beginning of a long period of uneasy peace between the system’s three principal super-states of _Zhonghua Minzu_, _Estados Unidos Mexcanos_ and _Bhārat Gaṇarājya_.
+The capture of _Novosibirsk_—and its formal re-institution as New Qinzhou in 2279—marked the end of the Wars, and the beginning of a long period of uneasy peace between the system’s three principal super-states of _Zhonghua Minzu_, _Estados Unidos Mexicanos_ and _Bhārat Gaṇarājya_.
 
 While remaining, for the moment, the formal seat of power for all three nations, the planet Earth has become a shell of its former self. For centuries, Military needs consistently overrode persistent environmental concerns, and the planet has been almost completely stripped of its remaining natural assets.
 
