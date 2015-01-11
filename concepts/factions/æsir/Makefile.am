@@ -8,4 +8,4 @@
 ##      https://creativecommons.org/licenses/by/4.0/
 ##
 
-dist_noinst_DATA = alphabet.html numerals.html
+dist_noinst_DATA = alphabet.html numerals.html lexicon.html style.css
