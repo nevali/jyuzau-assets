@@ -10,4 +10,4 @@
 
 SUBDIRS = actors props scenes music fonts concepts story
 
-noinst_DATA = LICENSE.md README.md
+dist_noinst_DATA = LICENSE.md README.md

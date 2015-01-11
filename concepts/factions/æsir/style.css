@@ -1,0 +1,46 @@
+body {
+	font-family: sans-serif;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+table, th, td {
+	border-collapse: collapse;
+	border: solid #888 1px;
+	padding: 8px;
+	text-align: center;
+}
+
+table {
+	margin: 1em 0;
+}
+
+.r {
+	font-family: Junicode, sans-serif;
+	font-weight: bold;
+	font-size: 3em;
+}
+dl {
+	margin-left: 2em;
+}
+dt {
+	font-family: Junicode, sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-top: 0.75em;
+}
+.t {
+	font-family: serif;
+	font-style: italic;
+	font-size: 0.85em;
+	margin-bottom: 1em;
+	color: #666;
+}
+dd.t:before { content: '['; }
+dd.t:after { content: ']'; }
+
+.archaic {
+	color: #ccc;
+}
